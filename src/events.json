@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "title": "Dil-luminati",
+      "date": "2024-11-01",
+      "location": "Chandigarh, India",
+      "image": "https://www.cryptoarena.com/assets/img/1130x665_DILJIT-DOSANJH_EDP_Hero-b99ed66de7.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Commic Con",
+      "date": "2024-11-05",
+      "location": "Delhi Hat",
+      "image": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https:%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1510833088%2Fptdf3gw3xfszuy8hfzg0.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Karan Aujla - It Was All A Dream",
+      "date": "2024-11-10",
+      "location": "To be announced",
+      "image": "https://cdn-az.allevents.in/events6/banners/12d3bb10-7fec-11ef-8cc9-398332a77e3a-rimg-w1200-h600-dc080708-gmir.jpg?v=1727783737"
+    },
+    {
+      "id": 4,
+      "title": "Moto World Expo",
+      "date": "2024-11-10",
+      "location": "Parade Ground",
+      "image": "https://cdn2.allevents.in/thumbs/thumb66e17efdaac31.png"
+    },
+    {
+      "id": 5,
+      "title": "PUNJAB HALF MARATHON 2024 (14TH EDITION)",
+      "date": "2024-11-10",
+      "location": "Chandigarh Club, Sector 1, Chandigarh, India",
+      "image": "https://cdn2.allevents.in/thumbs/thumb660ff55b94c4f.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Dil-luminati",
+      "date": "2024-11-01",
+      "location": "Chandigarh, India",
+      "image": "https://www.cryptoarena.com/assets/img/1130x665_DILJIT-DOSANJH_EDP_Hero-b99ed66de7.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Commic Con",
+      "date": "2024-11-05",
+      "location": "Delhi Hat",
+      "image": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https:%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1510833088%2Fptdf3gw3xfszuy8hfzg0.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Karan Aujla - It Was All A Dream",
+      "date": "2024-11-10",
+      "location": "To be announced",
+      "image": "https://cdn-az.allevents.in/events6/banners/12d3bb10-7fec-11ef-8cc9-398332a77e3a-rimg-w1200-h600-dc080708-gmir.jpg?v=1727783737"
+    },
+    {
+      "id": 9,
+      "title": "Moto World Expo",
+      "date": "2024-11-10",
+      "location": "Parade Ground",
+      "image": "https://cdn2.allevents.in/thumbs/thumb66e17efdaac31.png"
+    },
+    {
+      "id": 10,
+      "title": "PUNJAB HALF MARATHON 2024 (14TH EDITION)",
+      "date": "2024-11-10",
+      "location": "Chandigarh Club, Sector 1, Chandigarh, India",
+      "image": "https://cdn2.allevents.in/thumbs/thumb660ff55b94c4f.jpg"
+    },
+    {
+      "id": 11,
+      "title": "PUNJAB HALF MARATHON 2024 (14TH EDITION)",
+      "date": "2024-11-10",
+      "location": "Chandigarh Club, Sector 1, Chandigarh, India",
+      "image": "https://cdn2.allevents.in/thumbs/thumb660ff55b94c4f.jpg"
+    }
+  ]
